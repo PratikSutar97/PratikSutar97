@@ -1,16 +1,22 @@
-## Hi there 👋
+💫 About Me:
+Software Developer .NET Fullstack and also experience in DevOps.
+Knowledge of building, deploying and maintaining cloud environment with focus on different DevOps Tools,
+CI/CD and AWS Architecture and container technologies. Worked with AWS Services as EC2, S3,
+CloudWatch, IAM roles, Route53, VPC, SNS, DynamoDB. Automation scripting as shell, python, bash…
+Experience in containerization of Asp .Net , Angular, Python applications using Docker and deployed to
+Kubernetes clusters
 
-<!--
-**PratikSutar97/PratikSutar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C# GitHub Actions GitHub Git AWS Docker Python MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
