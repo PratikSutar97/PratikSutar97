@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Developer .NET Fullstack and also experience in DevOps.<br>Knowledge of building, deploying and maintaining cloud environment with focus on different DevOps Tools,<br>CI/CD and AWS Architecture and container technologies. Worked with AWS Services as EC2, S3,<br>CloudWatch, IAM roles, Route53, VPC, SNS, DynamoDB. Automation scripting as shell, python, bash..<br>Experience in containerization of Asp .Net , Angular, Python applications using Docker and deployed to<br>Kubernetes clusters
-
+AWS Cloud Engineer with 3+ years of experience supporting AWS production environments, CI/CD pipelines, and containerized applications. Hands-on experience with AWS services, Terraform, Docker, GitHub Actions long with background in .NET application support. Proven ability to automate cloud operations, improve deployment reliability, and support secure in Agile environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratiksutar1901) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratiksutar1901@gmail.com) 
